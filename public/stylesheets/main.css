@@ -1,0 +1,74 @@
+h1{
+    color: blue;
+}
+
+#obal{
+    background-color: lightgrey;
+    padding: 5px;
+    width: 40%;
+    height: auto;
+    border-radius: 20px;
+    position: absolute;
+    margin-left: 30%; 
+}
+
+li{
+    list-style-type: none;
+    width: 80%;
+    border: 1px solid;
+    margin-bottom: 5px;
+    padding-left: 3px;
+    padding-top: 10px;
+    border-radius: 5px;
+    float: left;
+}
+
+h2{
+    float: left;
+    width: 100%;
+}
+
+label{
+    float: left;
+    width: 100%;
+    margin-left: 5%;
+}
+
+ul{
+    float: left;
+    width: 80%;
+}
+
+#label{
+    float: left;
+}
+
+#label_field{
+    float: left;
+    width: 100%;
+}
+
+.info{
+    float: left;
+    width:100%;
+}
+
+.input_create{
+    background-color: silver;
+    color: blue;
+    font: bold 13px Arial;
+    line-height: 22px; 
+    border-radius: 5px;
+    float: left;
+    margin-left: 10%;
+}
+
+.input_delete{
+    background-color: red;
+    color: white;
+    font: bold 13px Arial;
+    line-height: 22px; 
+    border-radius: 5px;
+    float: right;
+    margin: 0 10px 10px 0;
+}
